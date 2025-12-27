@@ -6,7 +6,8 @@ secrets.conf
 printer-[0-9]*_[0-9]*.cfg
 secrets.conf
 crowsnest.conf.*
-ShakeTune_results/*
+ShakeTune_results/.*
+ShakeTune_results*
 *.bak
 *.bkp
 *.csv
